@@ -4,5 +4,7 @@ Git has a mutable index called stage 1.
 Git tracks changes of files.
 一
 二
-bugfix
+三
 Dev分支新功能
+在公司开发的新功能，dev分支
+>>>>>>> dev
