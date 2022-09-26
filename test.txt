@@ -4,3 +4,4 @@ Git has a mutable index called stage 1.
 Git tracks changes of files.
 一
 二
+bugfix
